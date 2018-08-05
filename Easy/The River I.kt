@@ -1,7 +1,7 @@
 import java.util.*
 
 /**
- * The River K. puzzle from CodInGame.com
+ * The River I. puzzle from CodInGame.com
  * Difficulty : Easy
  * https://www.codingame.com/ide/puzzle/the-river-i-
  */
