@@ -1,4 +1,5 @@
 /*
+CodInGame Puzzle Solution
 ISBN Check digit
 Difficulty: Easy
 https://www.codingame.com/ide/puzzle/isbn-check-digit
