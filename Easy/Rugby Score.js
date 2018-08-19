@@ -1,9 +1,5 @@
-/*
-CodInGame Puzzle Solution
-Rugby Score
-Difficulty: Easy
-https://www.codingame.com/training/easy/rugby-score
-*/
+// https://www.codingame.com/training/easy/rugby-score
+
 const N = parseInt(readline())
 
 for (let i = 0; i <= N / 5; ++i) {
