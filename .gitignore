@@ -1,3 +1,5 @@
 /Kotlin
 /JavaScript
 /.vscode
+/coverage
+/.nyc_output
