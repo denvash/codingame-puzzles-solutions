@@ -2,11 +2,7 @@ package easy.balanceBrackets
 
 import java.util.*
 
-/**
- * Brackets, extreme edition. puzzle from CodInGame.com
- * Difficulty : Easy
- * https://www.codingame.com/ide/puzzle/brackets-extreme-edition
- */
+// https://www.codingame.com/ide/puzzle/brackets-extreme-edition
 
 const val BALANCED = "true"
 const val UN_BALANCED = "false"

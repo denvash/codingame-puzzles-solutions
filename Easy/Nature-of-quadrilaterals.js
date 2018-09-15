@@ -1,4 +1,5 @@
 // https://www.codingame.com/ide/puzzle/nature-of-quadrilaterals
+
 const nature = (pA, pB, pC, pD) => {
     const dist = (p, q) => Math.sqrt(((p.x - q.x) ** 2) + ((p.y - q.y) ** 2));
     const AB = dist(pA, pB);

@@ -1,9 +1,4 @@
-/*
-CodInGame Puzzle Solution
-Disordered First Contact
-Difficulty: Easy
-https://www.codingame.com/ide/puzzle/disordered-first-contact
-*/
+// https://www.codingame.com/ide/puzzle/disordered-first-contact
 
 const iterateMsg = action => {
     for (let start = 0, length = 1; start < msg.length; start += length++) {

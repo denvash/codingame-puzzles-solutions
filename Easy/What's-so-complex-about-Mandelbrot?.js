@@ -1,9 +1,4 @@
-/*
-CodInGame Puzzle Solution
-What's so complex about Mandelbrot?
-Difficulty: Easy
-https://www.codingame.com/ide/puzzle/whats-so-complex-about-mandelbrot
-*/
+// https://www.codingame.com/ide/puzzle/whats-so-complex-about-mandelbrot
 
 const [real, img] = readline().match(/[-+]?[0-9]*\.?[0-9]+/g).map(Number);
 const m = +readline();

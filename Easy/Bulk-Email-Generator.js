@@ -1,9 +1,4 @@
-/*
-CodInGame Puzzle Solution
-Bulk Email Generator
-Difficulty: Easy
-https://www.codingame.com/ide/puzzle/bulk-email-generator
-*/
+// https://www.codingame.com/ide/puzzle/bulk-email-generator
 
 let N = parseInt(readline());
 let clauseCounter = 0;

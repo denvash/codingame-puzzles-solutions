@@ -2,11 +2,7 @@ package easy.orderOfSuccession
 
 import java.util.*
 
-/**
- * orDer oF succeSsion puzzle from CodInGame.com
- * Difficulty : Easy
- * https://www.codingame.com/ide/puzzle/order-of-succession
- */
+// https://www.codingame.com/ide/puzzle/order-of-succession
 
 enum class Gender(val gender: String) {
     M("M"), F("F")

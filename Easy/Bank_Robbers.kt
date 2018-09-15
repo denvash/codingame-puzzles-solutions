@@ -2,11 +2,7 @@ package easy.bankRobbers
 
 import java.util.*
 
-/**
- * Bank Robbers puzzle from CodInGame.com
- * Difficulty : Easy
- * https://www.codingame.com/ide/puzzle/bank-robbers
- */
+// https://www.codingame.com/ide/puzzle/bank-robbers
 
 fun main(args: Array<String>) {
     val input = Scanner(System.`in`)

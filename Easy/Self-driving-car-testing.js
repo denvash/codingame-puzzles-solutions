@@ -7,7 +7,6 @@ s = _ => r().split(';');
 let N = +r();
 const [a, ...str] = s();
 
-// a const
 let position = +a;
 // directions = [[10,R],[4,L],[8,S]...]
 const directions = str.map(s => [+s.slice(0, -1), s[s.length - 1]]);

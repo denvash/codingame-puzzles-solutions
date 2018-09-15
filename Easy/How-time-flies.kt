@@ -5,11 +5,7 @@ import java.time.format.DateTimeFormatter
 import java.time.temporal.ChronoUnit
 import java.util.*
 
-/**
- * How time flies. puzzle from CodInGame.com
- * Difficulty : Easy
- * https://www.codingame.com/ide/puzzle/how-time-flies
- */
+// https://www.codingame.com/ide/puzzle/how-time-flies
 
 fun main(args: Array<String>) {
     val input = Scanner(System.`in`)

@@ -1,9 +1,4 @@
-/*
-CodInGame Puzzle Solution
-Jack Silver: The Casino
-Difficulty: Easy
-https://www.codingame.com/ide/puzzle/jack-silver-the-casino
-*/
+// https://www.codingame.com/ide/puzzle/jack-silver-the-casino
 
 let [ROUNDS,CASH] = [+readline(),+readline()];
 const win = (n) => CASH+=(n*Math.ceil(CASH/4));

@@ -2,15 +2,8 @@ package easy.gravityTumbler
 
 import java.util.*
 
-/**
- * Gravity Tumbler puzzle from CodInGame.com
- * Difficulty : Easy
- * https://www.codingame.com/ide/puzzle/gravity-tumbler
- */
+// https://www.codingame.com/ide/puzzle/gravity-tumbler
 
-/**
- * easy.gravityTumbler.gravityTumbler.Puzzle constants
- */
 enum class Puzzle(val char: Char) {
     HEAVY_BIT('#'),
     EMPTY_BIT('.'),

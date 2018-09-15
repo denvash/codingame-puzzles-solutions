@@ -1,9 +1,4 @@
-/*
-CodInGame Puzzle Solution
-1×1×1 Rubik’s cube movements
-Difficulty: Easy
-https://www.codingame.com/ide/puzzle/111-rubiks-cube-movements
-*/
+// https://www.codingame.com/ide/puzzle/111-rubiks-cube-movements
 
 function flatten(arr) {
     return Array.prototype.concat(...arr);

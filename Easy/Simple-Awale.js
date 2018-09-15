@@ -1,8 +1,4 @@
-/*
-Simple Awalé
-Difficulty: Easy
-https://www.codingame.com/ide/puzzle/simple-awale
-*/
+// https://www.codingame.com/ide/puzzle/simple-awale
 
 readArrayNumber = _ => readline().split(' ').map(Number);
 let i = +readline(myBowls = readArrayNumber(opBowls = readArrayNumber()));

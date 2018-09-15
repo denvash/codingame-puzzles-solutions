@@ -1,10 +1,6 @@
 import java.util.*
 
-/**
- * The River I. puzzle from CodInGame.com
- * Difficulty : Easy
- * https://www.codingame.com/ide/puzzle/the-river-i-
- */
+// https://www.codingame.com/ide/puzzle/the-river-i-
 
 fun main(args : Array<String>) {
     assert(48.toLong() == 42.toLong().nextRiver())

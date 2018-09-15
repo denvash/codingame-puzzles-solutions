@@ -1,9 +1,4 @@
-/*
-CodInGame Puzzle Solution
-Morellet’s random lines
-Difficulty: Easy
-https://www.codingame.com/ide/puzzle/morellets-random-lines
-*/
+// https://www.codingame.com/ide/puzzle/morellets-random-lines
 
 Array.prototype.unique = () => Array.from(new Set(this));
 const mapToNumbers = _ => readline().split(' ').map(Number);
