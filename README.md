@@ -35,7 +35,15 @@ Various solutions for [Codingame](https://www.codingame.com) puzzles, my [profil
 - [XML MDF-2016.](/Easy/XML-MDF-2016.js) - [link](https://www.codingame.com/ide/puzzle/xml-mdf-2016)
 - [Onboarding](/Easy/Onboarding.js) - [link](https://www.codingame.com/ide/puzzle/onboarding)
 - [Defibrillators](/Easy/Defibrillators.js) - [link](https://www.codingame.com/ide/puzzle/defibrillators)
+- [Expand the polynomial](/Easy/Expand-the-polynomial.js) - [link](https://www.codingame.com/ide/puzzle/expand-the-polynomial)
+- [Pirate's treasure](/Easy/Pirate's-treasure.js) - [link](https://www.codingame.com/ide/puzzle/pirates-treasure)
 
 ## Medium
 
-- []() - [link]()
+- [ANEO Sponsored Puzzle](/Medium/ANEO-Sponsored-Puzzle.js) - [link](https://www.codingame.com/ide/puzzle/aneo)
+- [Othello](/Medium/Othello.js) - [link](https://www.codingame.com/ide/puzzle/othello)
+- [Micro Assembly](/Medium/Micro-Assembly.js) - [link](https://www.codingame.com/ide/puzzle/micro-assembly)
+- [The Optimal Urinal Problem](/Medium/The-Optimal-Urinal-Problem.js) - [link](https://www.codingame.com/ide/puzzle/the-optimal-urinal-problem)
+- [Maximum sub-sequence](/Medium/Maximum-sub-sequence.js) - [link](https://www.codingame.com/ide/puzzle/maximum-sub-sequence)
+- [Gravity Centrifuge Tuning](/Medium/Gravity-Centrifuge-Tuning.kt) - [link](https://www.codingame.com/ide/puzzle/gravity-centrifuge-tuning)
+- [Brackets, Extended Edition](/Medium/Brackets-Extended-Edition.js) - [link](https://www.codingame.com/ide/puzzle/brackets-extended-edition)
