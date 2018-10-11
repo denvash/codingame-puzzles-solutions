@@ -37,6 +37,7 @@ Various solutions for [Codingame](https://www.codingame.com) puzzles, my [profil
 - [Defibrillators](/Easy/Defibrillators.js) - [link](https://www.codingame.com/ide/puzzle/defibrillators)
 - [Expand the polynomial](/Easy/Expand-the-polynomial.js) - [link](https://www.codingame.com/ide/puzzle/expand-the-polynomial)
 - [Pirate's treasure](/Easy/Pirate's-treasure.js) - [link](https://www.codingame.com/ide/puzzle/pirates-treasure)
+- [Add'em Up](/Easy/Add'em-Up.js) - [link](https://www.codingame.com/ide/puzzle/addem-up)
 
 ## Medium
 
@@ -47,3 +48,6 @@ Various solutions for [Codingame](https://www.codingame.com) puzzles, my [profil
 - [Maximum sub-sequence](/Medium/Maximum-sub-sequence.js) - [link](https://www.codingame.com/ide/puzzle/maximum-sub-sequence)
 - [Gravity Centrifuge Tuning](/Medium/Gravity-Centrifuge-Tuning.kt) - [link](https://www.codingame.com/ide/puzzle/gravity-centrifuge-tuning)
 - [Brackets, Extended Edition](/Medium/Brackets-Extended-Edition.js) - [link](https://www.codingame.com/ide/puzzle/brackets-extended-edition)
+- [Brackets, Enhanced Edition](/Medium/Brackets-Enhanced-Edition.js) - [link](https://www.codingame.com/ide/puzzle/brackets-enhanced-edition)
+- [Sum of divisors](/Medium/Sum-of-divisors.js) - [link](https://www.codingame.com/ide/puzzle/sum-of-divisors)
+- [Bust speeding vehicles](/Medium/Bust-speeding-vehicles.js) - [link](https://www.codingame.com/ide/puzzle/bust-speeding-vehicles)

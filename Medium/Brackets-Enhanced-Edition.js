@@ -1,4 +1,4 @@
-// https://www.codingame.com/ide/puzzle/brackets-extended-edition
+// https://www.codingame.com/ide/puzzle/brackets-enhanced-edition
 
 const exprs = [...new Array(+readline())].map(() => readline().split(''));
 
