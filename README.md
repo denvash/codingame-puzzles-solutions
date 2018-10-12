@@ -2,7 +2,7 @@
 
 ![codingamelogo](codingamelogo.jpg)
 
-Various solutions for [Codingame](https://www.codingame.com) puzzles, my [profile](https://www.codingame.com/profile/82cadb4735c16364b4979205c954ec051734841).
+Various solutions for [Codingame](https://www.codingame.com/training) puzzles, my [profile](https://www.codingame.com/profile/82cadb4735c16364b4979205c954ec051734841).
 
 ## Easy
 
@@ -51,3 +51,4 @@ Various solutions for [Codingame](https://www.codingame.com) puzzles, my [profil
 - [Brackets, Enhanced Edition](/Medium/Brackets-Enhanced-Edition.js) - [link](https://www.codingame.com/ide/puzzle/brackets-enhanced-edition)
 - [Sum of divisors](/Medium/Sum-of-divisors.js) - [link](https://www.codingame.com/ide/puzzle/sum-of-divisors)
 - [Bust speeding vehicles](/Medium/Bust-speeding-vehicles.js) - [link](https://www.codingame.com/ide/puzzle/bust-speeding-vehicles)
+- [Text formatting](/Medium/Text-formatting.js) - [link](https://www.codingame.com/ide/puzzle/text-formatting)
