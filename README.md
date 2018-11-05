@@ -39,6 +39,8 @@ Various solutions for [Codingame](https://www.codingame.com/training) puzzles, m
 - [Pirate's treasure](/Easy/Pirate's-treasure.js) - [link](https://www.codingame.com/ide/puzzle/pirates-treasure)
 - [Add'em Up](/Easy/Add'em-Up.js) - [link](https://www.codingame.com/ide/puzzle/addem-up)
 - [Encryption/Decryption of Enigma Machine](/Easy/Encryption-Decryption-of-Enigma-Machine.js) - [link](https://www.codingame.com/ide/puzzle/encryptiondecryption-of-enigma-machine)
+- [Guessing n Cheating](/Easy/Guessing-n-Cheating.js) - [link](https://www.codingame.com/ide/puzzle/guessing-n-cheating)
+- [Rooks Movements](/Easy/Rooks-Movements.js) - [link](https://www.codingame.com/ide/puzzle/rooks-movements)
 
 ## Medium
 
