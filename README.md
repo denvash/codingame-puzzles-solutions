@@ -41,6 +41,7 @@ Various solutions for [Codingame](https://www.codingame.com/training) puzzles, m
 - [Encryption/Decryption of Enigma Machine](/Easy/Encryption-Decryption-of-Enigma-Machine.js) - [link](https://www.codingame.com/ide/puzzle/encryptiondecryption-of-enigma-machine)
 - [Guessing n Cheating](/Easy/Guessing-n-Cheating.js) - [link](https://www.codingame.com/ide/puzzle/guessing-n-cheating)
 - [Rooks Movements](/Easy/Rooks-Movements.js) - [link](https://www.codingame.com/ide/puzzle/rooks-movements)
+- [Carmichael Numbers](/Easy/Carmichael-numbers.js) - [link](https://www.codingame.com/training/easy/carmichael-numbers)
 
 ## Medium
 
@@ -57,3 +58,8 @@ Various solutions for [Codingame](https://www.codingame.com/training) puzzles, m
 - [Text formatting](/Medium/Text-formatting.js) - [link](https://www.codingame.com/ide/puzzle/text-formatting)
 - [Snake encoding](/Medium/Snake-encoding.js) - [link](https://www.codingame.com/ide/puzzle/snake-encoding)
 - [Next car license plate ?](/Medium/Next-car-license-plate.js) - [link](https://www.codingame.com/ide/puzzle/next-car-license-plate)
+- [Polydivisible-number.kt](/Medium/Polydivisible-number.kt) - [link](https://www.codingame.com/training/medium/polydivisible-number)
+
+## Hard
+
+- [Factorial vs Exponential](/Hard/Factorial-vs-Exponential.js) - [link](https://www.codingame.com/training/hard/factorial-vs-exponential)
