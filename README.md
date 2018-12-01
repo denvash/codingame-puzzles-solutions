@@ -62,4 +62,5 @@ Various solutions for [Codingame](https://www.codingame.com/training) puzzles, m
 
 ## Hard
 
-- [Factorial vs Exponential](/Hard/Factorial-vs-Exponential.js) - [link](https://www.codingame.com/training/hard/factorial-vs-exponential)
+- [Factorial vs Exponential](/Hard/Factorial-vs-Exponential.js) *[Math.log, Pre-Planning]* [![url](url.svg)](https://www.codingame.com/training/hard/factorial-vs-exponential)
+- [Cryptarithm](/Hard/Cryptarithm.js) *[Generators, Permutation, Set, Map]* [![url](url.svg)](https://www.codingame.com/training/hard/cryptarithm)

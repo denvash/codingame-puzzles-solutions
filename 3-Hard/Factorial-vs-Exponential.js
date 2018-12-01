@@ -1,4 +1,4 @@
-// https://www.codingame.com/ide/14434681a313ee6c744c53c236c34b25652ac323
+// https://www.codingame.com/training/hard/factorial-vs-exponential
 
 +readline();
 console.log(
