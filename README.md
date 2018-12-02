@@ -43,6 +43,7 @@ Various solutions for [Codingame](https://www.codingame.com/training) puzzles, m
 - [Rooks Movements](/1-Easy/Rooks-Movements.js) - [link](https://www.codingame.com/ide/puzzle/rooks-movements)
 - [Carmichael Numbers](/1-Easy/Carmichael-numbers.js) - [link](https://www.codingame.com/training/easy/carmichael-numbers)
 - [Darts](/1-Easy/Darts.js) *[Math, Map, Sort-Map-By-Value]* [![url](url.svg)](https://www.codingame.com/training/easy/darts)
+- [Dead men's shot](/1-Easy/Dead-mens-shot.js) *[Point inside Polygon]* [![url](url.svg)](https://www.codingame.com/training/easy/dead-mens-shot)
 
 ## Medium
 
