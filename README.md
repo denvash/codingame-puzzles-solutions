@@ -1,10 +1,26 @@
 # CodInGame puzzles solutions
 
-![codingamelogo](codingamelogo.jpg)
+![codingame-banner](https://user-images.githubusercontent.com/27515937/50617155-691f9f80-0ef4-11e9-8f30-7ed40f1d91fa.png)
 
-Various solutions for [Codingame](https://www.codingame.com/training) puzzles, my [profile](https://www.codingame.com/profile/82cadb4735c16364b4979205c954ec051734841).
+Various solutions for [Codingame](https://www.codingame.com/training) puzzles.
+:star:
+:star2:
+## CONTRIBUTE :sparkles:
 
-## Easy
+Hello visitor! I know this project helped you, so help others back! :pray:
+Please consider contributing to this project, we have to catch them all! :godmode: :running:
+
+If you are new check out [How to contribute to a project on Github](https://gist.github.com/MarcDiethelm/7303312).
+
+Got an **elegant** solution? Other programming language?
+
+Post an issue or send me an email: **justdenva@gmail.com**, I'll add it up!
+
+### Contributors
+
+Dennis Vash - [profile](https://www.codingame.com/profile/82cadb4735c16364b4979205c954ec051734841).
+
+## Easy :hammer:
 
 - [1×1×1 Rubik’s cube movements](/1-Easy/1×1×1_Rubik’s_cube_movements.js)  - [link](https://www.codingame.com/ide/puzzle/111-rubiks-cube-movements)
 - [Balanced ternary computer: encode](/1-Easy/Balanced_ternary_computer:_encode.kt) - [link](https://www.codingame.com/ide/puzzle/balanced-ternary-computer-encode)
@@ -46,7 +62,7 @@ Various solutions for [Codingame](https://www.codingame.com/training) puzzles, m
 - [Dead men's shot](/1-Easy/Dead-mens-shot.js) *[Point inside Polygon]* [![url](url.svg)](https://www.codingame.com/training/easy/dead-mens-shot)
 - [Rectangular block spinner](/1-Easy/Rectangular-block-spinner.js) *[String Manipulation]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/rectangular-block-spinner)
 
-## Medium
+## Medium :nut_and_bolt:
 
 - [ANEO Sponsored Puzzle](/2-Medium/ANEO-Sponsored-Puzzle.js) - [link](https://www.codingame.com/ide/puzzle/aneo)
 - [Othello](/2-Medium/Othello.js) - [link](https://www.codingame.com/ide/puzzle/othello)
@@ -63,7 +79,7 @@ Various solutions for [Codingame](https://www.codingame.com/training) puzzles, m
 - [Next car license plate ?](/2-Medium/Next-car-license-plate.js) - [link](https://www.codingame.com/ide/puzzle/next-car-license-plate)
 - [Polydivisible-number.kt](/2-Medium/Polydivisible-number.kt) - [link](https://www.codingame.com/training/2-Medium/polydivisible-number)
 
-## Hard
+## Hard :moneybag:
 
 - [Factorial vs Exponential](/3-Hard/Factorial-vs-Exponential.js) *[Math.log, Pre-Planning]* [![url](url.svg)](https://www.codingame.com/training/hard/factorial-vs-exponential)
 - [Cryptarithm](/3-Hard/Cryptarithm.js) *[Generators, Permutation, Set, Map]* [![url](url.svg)](https://www.codingame.com/training/hard/cryptarithm)
