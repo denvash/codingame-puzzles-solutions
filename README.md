@@ -1,4 +1,4 @@
-#![codingame-banner](https://user-images.githubusercontent.com/27515937/50617155-691f9f80-0ef4-11e9-8f30-7ed40f1d91fa.png)
+# ![codingame-banner](https://user-images.githubusercontent.com/27515937/50617155-691f9f80-0ef4-11e9-8f30-7ed40f1d91fa.png)
 
 Various :star2: solutions :star: for [Codingame](https://www.codingame.com/training) puzzles.
 
