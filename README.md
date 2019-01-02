@@ -8,13 +8,14 @@ Various solutions for [Codingame](https://www.codingame.com/training) puzzles.
 ## CONTRIBUTE :sparkles:
 
 Hello visitor! I know this project helped you, so help others back! :pray:
-Please consider contributing to this project, we have to catch them all! :godmode: :running:
+
+Please consider contributing, we have to catch them all! :godmode: :running:
 
 If you are new check out [How to contribute to a project on Github](https://gist.github.com/MarcDiethelm/7303312).
 
 Got an **elegant** solution? Other programming language?
 
-Post an issue or send me an email: **justdenva@gmail.com**, I'll add it up!
+Post an issue or send me an email: _justdenva@gmail.com_, I'll add it up!
 
 ### Contributors
 
