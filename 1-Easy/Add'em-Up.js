@@ -2,12 +2,12 @@
 
 const [, numbers] = [readline(), readline().split(' ').map(Number)];
 
-const getCost = (nums) => {
+const getCost = (numbers) => {
     let cost = 0;
-    while (nums.length > 1) {
-        nums.sort((a, b) => b-a);
-        const sumOfMin = nums.pop() + nums.pop();
-        nums.push(sumOfMin);
+    while (numbers.length > 1) {
+        numbers.sort((a, b) => b-a);
+        const sumOfMin = numbers.pop() + numbers.pop();
+        numbers.push(sumOfMin);
         cost+=sumOfMin;
     }
     return cost;
