@@ -6,17 +6,11 @@ Various :star2: solutions :star: for [Codingame](https://www.codingame.com/train
 
 Hello visitor! I know this project helped you, so help others back! :pray:
 
-Please consider contributing, we have to catch them all! :godmode: :running:
-
 If you are new check out [How to contribute to a project on Github](https://gist.github.com/MarcDiethelm/7303312).
 
 Got an **elegant** solution? Other programming language?
 
-Post an issue or send me an email: _justdenva@gmail.com_, I'll add it up!
-
-### Contributors
-
-Dennis Vash - [profile](https://www.codingame.com/profile/82cadb4735c16364b4979205c954ec051734841).
+Post an issue or send an email: _justdenva@gmail.com_, I'll add it up!
 
 ## Easy :hammer:
 
@@ -81,3 +75,8 @@ Dennis Vash - [profile](https://www.codingame.com/profile/82cadb4735c16364b49792
 
 - [Factorial vs Exponential](/3-Hard/Factorial-vs-Exponential.js) *[Math.log, Pre-Planning]* [![url](url.svg)](https://www.codingame.com/training/hard/factorial-vs-exponential)
 - [Cryptarithm](/3-Hard/Cryptarithm.js) *[Generators, Permutation, Set, Map]* [![url](url.svg)](https://www.codingame.com/training/hard/cryptarithm)
+
+
+## Contributors
+
+Dennis Vash - [profile](https://www.codingame.com/profile/82cadb4735c16364b4979205c954ec051734841).
