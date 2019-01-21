@@ -80,6 +80,10 @@ Post an issue or send an email: _justdenva@gmail.com_, I'll add it up!
 - [Factorial vs Exponential](/3-Hard/Factorial-vs-Exponential.js) *[Math.log, Pre-Planning]* [![url](url.svg)](https://www.codingame.com/training/hard/factorial-vs-exponential)
 - [Cryptarithm](/3-Hard/Cryptarithm.js) *[Generators, Permutation, Set, Map]* [![url](url.svg)](https://www.codingame.com/training/hard/cryptarithm)
 
+## Very Hard
+
+- [Nintendo Sponsored Contest](/3-Very_Hard/Nintendo-Sponsored-Contest.cpp) *[Math.log, Pre-Planning]* [![url](url.svg)](https://www.codingame.com/training/expert/nintendo-sponsored-contest)
+
 ## Contributors
 
 Dennis Vash - [profile](https://www.codingame.com/profile/82cadb4735c16364b4979205c954ec051734841).
