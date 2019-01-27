@@ -59,7 +59,15 @@ Post an issue or send an email: _justdenva@gmail.com_, I'll add it up!
 ## Medium
 
 - [ANEO Sponsored Puzzle](/2-Medium/ANEO-Sponsored-Puzzle.js) *[Math]* [![url](url.svg)]((https://www.codingame.com/ide/puzzle/aneo))
+- [Dwarfs standing on the shoulders of giants](/2-Medium/Dwarfs-standing-on-the-shoulders-of-giants.java) *[Graphs, Memoization, Recursion]* [![url](url.svg)]((https://www.codingame.com/training/medium/dwarfs-standing-on-the-shoulders-of-giants))
+- [Scrabble](/2-Medium/Scrabble.java) *[Dictionary]* [![url](url.svg)]((https://www.codingame.com/training/medium/scrabble))
+- [Telephone Numbers](/2-Medium/Telephone-Numbers.java) *[Sets, Tries]* [![url](url.svg)]((https://www.codingame.com/training/medium/telephone-numbers))
+- [The Gift](/2-Medium/The-Gift.php) *[Greedy Algorithms]* [![url](url.svg)]((https://www.codingame.com/training/medium/the-gift))
+- [Network Cabling (Scala)](/2-Medium/Network-Cabling.scala) *[Loops, Distances, Medians]* [![url](url.svg)]((https://www.codingame.com/training/medium/network-cabling))
+- [Network Cabling (Java)](/2-Medium/Network-Cabling.java) *[Loops, Distances, Medians]* [![url](url.svg)]((https://www.codingame.com/training/medium/network-cabling))
 - [Othello](/2-Medium/Othello.js) *[String Manipulation]* [![url](url.svg)]((https://www.codingame.com/ide/puzzle/othello))
+- [Skynet Revolution - Ep1](/2-Medium/Skynet-Revolution-ep1.js) *[Graphs, BFS]* [![url](url.svg)]((https://www.codingame.com/training/medium/skynet-revolution-episode-1))
+- [Teads Sponsored Contest](/2-Medium/Teads.java) *[Graphs, BFS]* [![url](url.svg)]((https://www.codingame.com/training/medium/teads-sponsored-contest))
 - [Micro Assembly](/2-Medium/Micro-Assembly.js) *[String Evaluation]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/micro-assembly)
 - [The Optimal Urinal Problem](/2-Medium/The-Optimal-Urinal-Problem.js) *[Memoization]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/the-optimal-urinal-problem)
 - [Maximum sub-sequence](/2-Medium/Maximum-sub-sequence.js) *[Filter]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/maximum-sub-sequence)
@@ -77,10 +85,34 @@ Post an issue or send an email: _justdenva@gmail.com_, I'll add it up!
 
 - [Factorial vs Exponential](/3-Hard/Factorial-vs-Exponential.js) *[Math.log, Pre-Planning]* [![url](url.svg)](https://www.codingame.com/training/hard/factorial-vs-exponential)
 - [Cryptarithm](/3-Hard/Cryptarithm.js) *[Generators, Permutation, Set, Map]* [![url](url.svg)](https://www.codingame.com/training/hard/cryptarithm)
+- [Vox Codei - Episode 1](/3-Hard/Vox-Codei-Episode-1.js) *[DFS, Brute-Force, Simulation]* [![url](url.svg)](https://www.codingame.com/training/hard/vox-codei-episode-1)
+- [Winamax Sponsored Contest](/3-Hard/Winamax-Sponsored-Contest.py) *[Backtracking, Recursion]* [![url](url.svg)](https://www.codingame.com/training/hard/winamax-sponsored-contest)
+- [There is no Spoon - Episode 2](/3-Hard/There-is-no-Spoon-Episode-2.java) *[Backtracking, Recursion]* [![url](url.svg)](https://www.codingame.com/training/hard/there-is-no-spoon-episode-2)
+- [The Greatest Number](/3-Hard/The-greatest-number.py) *[Loops, Conditions]* [![url](url.svg)](https://www.codingame.com/training/hard/the-greatest-number)
+- [The Last Crusade - Episode 2](/3-Hard/The-Last-Crusade-Episode-2.cs) *[Backtracking, Pathfinding]* [![url](url.svg)](https://www.codingame.com/training/hard/the-last-crusade-episode-2)
+- [The Labyrinth](/3-Hard/The-Labyrinth.py) *[BFS, Path Finding]* [![url](url.svg)](https://www.codingame.com/training/hard/the-labyrinth)
+- [The Bridge](/3-Hard/The-Bridge.js) *[DFS, Backtracking]* [![url](url.svg)](https://www.codingame.com/training/hard/the-bridge-episode-2)
+- [Skynet Revolution - Episode 2](/3-Hard/Skynet-Revolution-Episode-2.php) *[Graphs, Pathfinding]* [![url](url.svg)](https://www.codingame.com/training/hard/skynet-revolution-episode-2)
+- [Don't Panic - Episode 2](/3-Hard/Don't-Panic-Episode-2.java) *[Pathfinding]* [![url](url.svg)](https://www.codingame.com/training/hard/don't-panic-episode-2)
+- [Super Computer](/3-Hard/Super-Computer.py) *[Greedy Algorithms, Scheduling]* [![url](url.svg)](https://www.codingame.com/training/hard/super-computer)
+- [Roller Coaster](/3-Hard/Roller-Coaster.py) *[Dynamic Programming, Simulation]* [![url](url.svg)](https://www.codingame.com/training/hard/roller-coaster)
+- [Surface](/3-Hard/Surface.py) *[BFS, Flood Fill, Memoization, Recursion]* [![url](url.svg)](https://www.codingame.com/training/hard/surface)
+- [CGX Formatter](/3-Hard/CGX-Formatter.py) *[Strings, Parsing]* [![url](url.svg)](https://www.codingame.com/training/hard/cgx-formatter)
+- [Power of Thor - Episode 2](/3-Hard/Power-of-Thor-Episode-2.py) *[Barycenters, Pathfinding]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/power-of-thor-episode-2)
+- [TAN Network](/3-Hard/TAN-Network.py) *[Graphs, Pathfinding, Distances, Trigonometry]* [![url](url.svg)](https://www.codingame.com/training/hard/tan-network)
+- [Genome Sequencing](/3-Hard/Genome-Sequencing.cpp) *[Strings, Permutations]* [![url](url.svg)](https://www.codingame.com/training/hard/genome-sequencing)
+- [Bender - Episode 2](/3-Hard/Bender-Episode-2.py) *[Dynamic Programming, Memoization, Recursion, Pathfinding]* [![url](url.svg)](https://www.codingame.com/training/hard/bender-episode-2)
+- [Bender - Episode 3](/3-Hard/Bender-Episode-3.kt) *[Regression Analysis]* [![url](url.svg)](https://www.codingame.com/training/hard/bender-episode-3)
 
 ## Very Hard
 
 - [Nintendo Sponsored Contest](/3-Very_Hard/Nintendo-Sponsored-Contest.cpp) *[C++ Only, Bits, Polynomial]* [![url](url.svg)](https://www.codingame.com/training/expert/nintendo-sponsored-contest)
+- [Nintendo Sponsored Contest](/3-Very_Hard/The-Resistance.js) *[Dynamic Programming, Encoding, Memoization, Recursion]* [![url](url.svg)](https://www.codingame.com/training/expert/the-resistance)
+- [Mars Lander - Episode 3](/3-Very_Hard/Mars-Lander-Episode-3.java) *[Distances, Trigonometry]* [![url](url.svg)](https://www.codingame.com/training/expert/mars-lander-episode-3)
+- [Music Scores](/3-Very_Hard/Music-Scores.java) *[Encoding, Image Processing, Pattern Recognition]* [![url](url.svg)](https://www.codingame.com/training/expert/music-scores)
+- [Shadows of the Knight - Episode 2](/3-Very_Hard/Shadows-of-the-Knight-Episode-2.java) *[Binary Search, Intervals]* [![url](url.svg)](https://www.codingame.com/training/expert/shadows-of-the-knight-episode-2)
+- [Vox Codei - Episode 2](/3-Very_Hard/Vox-Codei-Episode-2.cpp) *[DFS, Brute-Force, Pattern Recognition, Simulation]* [![url](url.svg)](https://www.codingame.com/training/expert/vox-codei-episode-2)
+- [The Last Crusade - Episode 3](/3-Very_Hard/The-Last-Crusade-Episode-3.java) *[Backtracking, Pathfinding]* [![url](url.svg)](https://www.codingame.com/training/expert/the-last-crusade-episode-3)
 
 ## Contributors
 
