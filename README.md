@@ -4,8 +4,6 @@ Various :star2: solutions :star: for [Codingame](https://www.codingame.com/train
 
 ## Contribute
 
-Hello visitor! :sparkles: I know this project helped you, so help others back! :pray:
-
 If you are new check out [How to contribute to a project on Github](https://gist.github.com/MarcDiethelm/7303312).
 
 Got an **elegant** solution? **Other** programming language? Found a *bug*?
@@ -60,20 +58,20 @@ Post an issue or send an email: _justdenva@gmail.com_, I'll add it up!
 
 ## Medium
 
-- [ANEO Sponsored Puzzle](/2-Medium/ANEO-Sponsored-Puzzle.js) - [link](https://www.codingame.com/ide/puzzle/aneo)
-- [Othello](/2-Medium/Othello.js) - [link](https://www.codingame.com/ide/puzzle/othello)
-- [Micro Assembly](/2-Medium/Micro-Assembly.js) - [link](https://www.codingame.com/ide/puzzle/micro-assembly)
-- [The Optimal Urinal Problem](/2-Medium/The-Optimal-Urinal-Problem.js) - [link](https://www.codingame.com/ide/puzzle/the-optimal-urinal-problem)
-- [Maximum sub-sequence](/2-Medium/Maximum-sub-sequence.js) - [link](https://www.codingame.com/ide/puzzle/maximum-sub-sequence)
-- [Gravity Centrifuge Tuning](/2-Medium/Gravity-Centrifuge-Tuning.kt) - [link](https://www.codingame.com/ide/puzzle/gravity-centrifuge-tuning)
-- [Brackets, Extended Edition](/2-Medium/Brackets-Extended-Edition.js) - [link](https://www.codingame.com/ide/puzzle/brackets-extended-edition)
-- [Brackets, Enhanced Edition](/2-Medium/Brackets-Enhanced-Edition.js) - [link](https://www.codingame.com/ide/puzzle/brackets-enhanced-edition)
-- [Sum of divisors](/2-Medium/Sum-of-divisors.js) - [link](https://www.codingame.com/ide/puzzle/sum-of-divisors)
-- [Bust speeding vehicles](/2-Medium/Bust-speeding-vehicles.js) - [link](https://www.codingame.com/ide/puzzle/bust-speeding-vehicles)
-- [Text formatting](/2-Medium/Text-formatting.js) - [link](https://www.codingame.com/ide/puzzle/text-formatting)
-- [Snake encoding](/2-Medium/Snake-encoding.js) - [link](https://www.codingame.com/ide/puzzle/snake-encoding)
-- [Next car license plate ?](/2-Medium/Next-car-license-plate.js) - [link](https://www.codingame.com/ide/puzzle/next-car-license-plate)
-- [Polydivisible-number.kt](/2-Medium/Polydivisible-number.kt) - [link](https://www.codingame.com/training/2-Medium/polydivisible-number)
+- [ANEO Sponsored Puzzle](/2-Medium/ANEO-Sponsored-Puzzle.js) *[Math]* [![url](url.svg)]((https://www.codingame.com/ide/puzzle/aneo))
+- [Othello](/2-Medium/Othello.js) *[String Manipulation]* [![url](url.svg)]((https://www.codingame.com/ide/puzzle/othello))
+- [Micro Assembly](/2-Medium/Micro-Assembly.js) *[String Evaluation]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/micro-assembly)
+- [The Optimal Urinal Problem](/2-Medium/The-Optimal-Urinal-Problem.js) *[Memoization]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/the-optimal-urinal-problem)
+- [Maximum sub-sequence](/2-Medium/Maximum-sub-sequence.js) *[Filter]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/maximum-sub-sequence)
+- [Gravity Centrifuge Tuning](/2-Medium/Gravity-Centrifuge-Tuning.kt) *[BigInteger, Fibonacci]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/gravity-centrifuge-tuning)
+- [Brackets, Enhanced Edition](/2-Medium/Brackets-Enhanced-Edition.js) *[Stack]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/brackets-enhanced-edition)
+- [Sum of divisors](/2-Medium/Sum-of-divisors.js) *[Math]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/sum-of-divisors)
+- [Bust speeding vehicles](/2-Medium/Bust-speeding-vehicles.js) *[Map]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/bust-speeding-vehicles)
+- [Text formatting](/2-Medium/Text-formatting.js) *[String Manipulation]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/text-formatting)
+- [Snake encoding](/2-Medium/Snake-encoding.js) *[Mutation]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/snake-encoding)
+- [Next car license plate ?](/2-Medium/Next-car-license-plate.js) *[String Manipulation]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/next-car-license-plate)
+- [Polydivisible](/2-Medium/Polydivisible-number.kt) *[BigInteger]* [![url](url.svg)](https://www.codingame.com/training/2-Medium/polydivisible-number)
+- [Digit Sum Successor](/2-Medium/Digit-Sum-Successor.js) *[Math, Time-Complexity]* [![url](url.svg)](https://www.codingame.com/training/medium/digit-sum-successor)
 
 ## Hard
 
@@ -82,7 +80,7 @@ Post an issue or send an email: _justdenva@gmail.com_, I'll add it up!
 
 ## Very Hard
 
-- [Nintendo Sponsored Contest](/3-Very_Hard/Nintendo-Sponsored-Contest.cpp) *[Math.log, Pre-Planning]* [![url](url.svg)](https://www.codingame.com/training/expert/nintendo-sponsored-contest)
+- [Nintendo Sponsored Contest](/3-Very_Hard/Nintendo-Sponsored-Contest.cpp) *[C++ Only, Bits, Polynomial]* [![url](url.svg)](https://www.codingame.com/training/expert/nintendo-sponsored-contest)
 
 ## Contributors
 
