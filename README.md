@@ -80,6 +80,7 @@ Post an issue or send an email: _justdenva@gmail.com_, I'll add it up!
 - [Next car license plate ?](/2-Medium/Next-car-license-plate.js) *[String Manipulation]* [![url](url.svg)](https://www.codingame.com/ide/puzzle/next-car-license-plate)
 - [Polydivisible](/2-Medium/Polydivisible-number.kt) *[BigInteger]* [![url](url.svg)](https://www.codingame.com/training/2-Medium/polydivisible-number)
 - [Digit Sum Successor](/2-Medium/Digit-Sum-Successor.js) *[Math, Time-Complexity]* [![url](url.svg)](https://www.codingame.com/training/medium/digit-sum-successor)
+- [Mars Lander - Episode 2](/2-Medium/Mars-Lander-Episode-2.cpp) *[Distances, Trigonometry]* [![url](url.svg)](https://www.codingame.com/training/medium/mars-lander-episode-2)
 
 ## Hard
 
