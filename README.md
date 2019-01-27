@@ -1,5 +1,7 @@
 # ![codingame-banner](https://user-images.githubusercontent.com/27515937/50617155-691f9f80-0ef4-11e9-8f30-7ed40f1d91fa.png)
 
+![](https://img.shields.io/github/languages/count/denvash/codingame-puzzles-solutions.svg) ![](https://img.shields.io/github/languages/top/denvash/codingame-puzzles-solutions.svg)
+
 Various :star2: solutions :star: for [Codingame](https://www.codingame.com/training) puzzles.
 
 ## Contribute
