@@ -83,7 +83,7 @@ Post an issue or send an email: _justdenva@gmail.com_, I'll add it up!
 - [Polydivisible](/2-Medium/Polydivisible-number.kt) *[BigInteger]* [![url](url.svg)](https://www.codingame.com/training/2-Medium/polydivisible-number)
 - [Digit Sum Successor](/2-Medium/Digit-Sum-Successor.js) *[Math, Time-Complexity]* [![url](url.svg)](https://www.codingame.com/training/medium/digit-sum-successor)
 - [Mars Lander - Episode 2](/2-Medium/Mars-Lander-Episode-2.cpp) *[Distances, Trigonometry]* [![url](url.svg)](https://www.codingame.com/training/medium/mars-lander-episode-2)
-- [Brackets, Ultimate Edition](/2-Medium/Brackets-Ultimate-Edition.js) *[Regex]* [![url](url.svg)](https://www.codingame.com/training/medium/brackets-ultimate-edition)
+- [Brackets, Ultimate Editionש](/2-Medium/Brackets-Ultimate-Edition.js) *[Regex]* [![url](url.svg)](https://www.codingame.com/training/medium/brackets-ultimate-edition)
 
 ## Hard
 
