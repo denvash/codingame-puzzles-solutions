@@ -57,6 +57,7 @@ Post an issue or send an email: _justdenva@gmail.com_, I'll add it up!
 - [Credit Card Verifier](/1-Easy/Credit-Card-Cerifier.js) *[Reduce]* [![url](url.svg)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm)
 - [Hunger Games](/1-Easy/Hunger-Games.js) *[String Manipulation]* [![url](url.svg)](https://www.codingame.com/training/easy/hunger-games)
 - [The Dart 101](/1-Easy/The-Dart-101.js) *[Conditions, Reduce]* [![url](url.svg)](https://www.codingame.com/training/easy/the-dart-101)
+- [Brick in the Wall](/1-Easy/Brick-in-the-Wall.js) *[Greedy Algorithms, Mathematics]* [![url](url.svg)]([https://www.codingame.com/training/easy/the-dart-101](https://www.codingame.com/training/easy/brick-in-the-wall))
 
 ## Medium
 
