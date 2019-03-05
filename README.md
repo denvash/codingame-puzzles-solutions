@@ -57,7 +57,8 @@ Post an issue or send an email: _justdenva@gmail.com_, I'll add it up!
 - [Credit Card Verifier](/1-Easy/Credit-Card-Cerifier.js) *[Reduce]* [![url](url.svg)](https://www.codingame.com/training/easy/credit-card-verifier-luhns-algorithm)
 - [Hunger Games](/1-Easy/Hunger-Games.js) *[String Manipulation]* [![url](url.svg)](https://www.codingame.com/training/easy/hunger-games)
 - [The Dart 101](/1-Easy/The-Dart-101.js) *[Conditions, Reduce]* [![url](url.svg)](https://www.codingame.com/training/easy/the-dart-101)
-- [Brick in the Wall](/1-Easy/Brick-in-the-Wall.js) *[Greedy Algorithms, Mathematics]* [![url](url.svg)]([https://www.codingame.com/training/easy/the-dart-101](https://www.codingame.com/training/easy/brick-in-the-wall))
+- [Brick in the Wall](/1-Easy/Brick-in-the-Wall.js) *[Greedy Algorithms, Mathematics]* [![url](url.svg)](https://www.codingame.com/training/easy/the-dart-101)
+- [Blowing Fuse](/1-Easy/Blowing-Fuse.js) *[Conditions]* [![url](url.svg)](https://www.codingame.com/training/easy/blowing-fuse)
 
 ## Medium
 
@@ -122,3 +123,15 @@ Post an issue or send an email: _justdenva@gmail.com_, I'll add it up!
 ## Contributors
 
 Dennis Vash - [profile](https://www.codingame.com/profile/82cadb4735c16364b4979205c954ec051734841).
+
+## Integrate with Node.js
+
+```javascript
+const readFileSync = require('fs').readFileSync
+const inputFile = 'lib/1.in'
+const inArray = readFileSync(inputFile, 'utf8').split('\n')
+const readline = () => inArray.shift()
+
+// Use as normal readline function (Spider-Monkey) syntax;
+const N = readline().split(' ').map(Number)
+```
