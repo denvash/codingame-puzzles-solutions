@@ -120,10 +120,6 @@ Post an issue or send an email: _justdenva@gmail.com_, I'll add it up!
 - [Vox Codei - Episode 2](/3-Very_Hard/Vox-Codei-Episode-2.cpp) *[DFS, Brute-Force, Pattern Recognition, Simulation]* [![url](url.svg)](https://www.codingame.com/training/expert/vox-codei-episode-2)
 - [The Last Crusade - Episode 3](/3-Very_Hard/The-Last-Crusade-Episode-3.java) *[Backtracking, Pathfinding]* [![url](url.svg)](https://www.codingame.com/training/expert/the-last-crusade-episode-3)
 
-## Contributors
-
-Dennis Vash - [profile](https://www.codingame.com/profile/82cadb4735c16364b4979205c954ec051734841).
-
 ## Integrate with Node.js
 
 ```javascript
@@ -135,3 +131,7 @@ const readline = () => inArray.shift()
 // Use as normal readline function (Spider-Monkey) syntax;
 const N = readline().split(' ').map(Number)
 ```
+
+## Contributors
+
+Dennis Vash - [profile](https://www.codingame.com/profile/82cadb4735c16364b4979205c954ec051734841).
